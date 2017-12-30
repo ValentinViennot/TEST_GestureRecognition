@@ -1,4 +1,4 @@
-#TestGesture - Version 2
+# TestGesture - Version 2
 Essai de reconnaissance de formes à partir de la distance à un modèle.
 
 ## Comment utiliser
