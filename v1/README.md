@@ -1,4 +1,4 @@
-#TestGesture - Version 1
+# TestGesture - Version 1
 Reconnaissance de formes à partir du nombre de sommets
 
 ## Comment utiliser
